@@ -10,11 +10,5 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "e9906201f5d2723a",
-        "key": "raju111",
-        "expirydate": "30-12-2025",
-        "Allowoffline": false
     }
 ]
