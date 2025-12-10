@@ -15,6 +15,6 @@
         "device_id": "e9906201f5d2723a",
         "key": "raju111",
         "expirydate": "30-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
